@@ -4,7 +4,7 @@ from duckduckgo_search import DDGS
 def setup_page():
     """Sets up the Streamlit page configuration."""
     st.set_page_config(
-        page_title="Truevis Chords Search",
+        page_title="Chords Search",
         page_icon="🎵",
         layout="wide",
     )
