@@ -1,6 +1,6 @@
 # Truevis Chords Search
 
-A simple Streamlit web application that helps you find chords and lyrics for songs using DuckDuckGo search.
+A simple Streamlit web application that helps find chords and lyrics for songs using DuckDuckGo search.
 
 Published to https://chords-finder.streamlit.app/
 
