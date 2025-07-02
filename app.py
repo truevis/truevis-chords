@@ -33,8 +33,8 @@ def main():
     setup_page()
 
     song_query = st.text_input(
-        "Enter a song title for 'chords and lyrics':",
-        placeholder="e.g., Shine On You Crazy Diamond",
+        "Enter a song title or description to search for 'chords and lyrics':",
+        placeholder="e.g., Drove my Chevy to the levee",
         key="song_input"
     )
 
