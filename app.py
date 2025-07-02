@@ -42,6 +42,10 @@ def main():
         with st.spinner(f"Searching for '{song_query}'..."):
             results = perform_search(song_query)
             display_results(results)
+    
+    # st.markdown("---")
+    st.markdown("Sponsored by [truevis.com](https://truevis.com)")
+    st.markdown("Powered by [DuckDuckGo](https://duckduckgo.com)")
 
 if __name__ == "__main__":
     main() 
