@@ -1,4 +1,4 @@
-.streamlit/secrets.toml
+u.streamlit/secrets.toml
 .history
 
 # Python
@@ -27,5 +27,3 @@ Thumbs.db
 *.log
 todo.md
 .cursorrules
-.gitattributes
-.gitignore
